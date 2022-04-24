@@ -1,1 +1,1 @@
-# praktikum_SD
+# struktur data
